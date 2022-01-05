@@ -1,0 +1,16 @@
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.exe
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.deps.json
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.runtimeconfig.json
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.runtimeconfig.dev.json
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.dll
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\ref\telBook.dll
+C:\Users\eray\Desktop\examples-NET5\telBook\bin\Debug\net5.0\telBook.pdb
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.csproj.AssemblyReference.cache
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.AssemblyInfoInputs.cache
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.AssemblyInfo.cs
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.csproj.CoreCompileInputs.cache
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.dll
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\ref\telBook.dll
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.pdb
+C:\Users\eray\Desktop\examples-NET5\telBook\obj\Debug\net5.0\telBook.genruntimeconfig.cache
