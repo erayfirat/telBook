@@ -121,7 +121,6 @@ namespace telBook
                 if(item.Name==val || item.Surname==val)
                     guide = item;
             }
-
             return guide;
         }
 
